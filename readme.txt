@@ -6,3 +6,4 @@ Creating a new branch is quick AND simple.
 Git test.
 merge mode test.
 commit to remote.
+hello,guys.
